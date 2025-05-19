@@ -1,3 +1,4 @@
 file for stepik test
 new line for reset
 
+line for new branch
