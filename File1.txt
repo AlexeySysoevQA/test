@@ -1,4 +1,4 @@
-test text
+conflict line 2
 new text for test2
 456
 789
