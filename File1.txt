@@ -1,4 +1,5 @@
 conflict line 2
+very conflict line1
 new text for test2
 456
 789
