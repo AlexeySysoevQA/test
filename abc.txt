@@ -1,1 +1,3 @@
 file for stepik test
+new line for reset
+
