@@ -1,4 +1,4 @@
-<<<<<<< HEAD123
+123
 321
 nolines1
 no2lines2
